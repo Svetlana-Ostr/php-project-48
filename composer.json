@@ -8,6 +8,9 @@
             "Hexlet\\Code\\": "src/"
         }
     },
+    "bin": [
+        "bin/gendiff"
+    ],
     "authors": [
         {
             "name": "Svetlana Ostritsova",
